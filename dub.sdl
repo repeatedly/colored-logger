@@ -1,5 +1,6 @@
 name "colored-logger"
 description "Colored logger for TTY"
 copyright "Copyright © 2015, Masahiro Nakagawa"
+license "BSL-1.0"
 authors "Masahiro Nakagawa"
 targetType "library"
